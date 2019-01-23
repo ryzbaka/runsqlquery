@@ -76,6 +76,9 @@ def runsqlquery():
         print("Wrong choice.")
         runsqlquery()
 
+        
+        
+#<module> begins
 runsqlquery()
 
 
