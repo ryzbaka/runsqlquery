@@ -5,8 +5,15 @@ Demonstration of the runsqlquery() function which is used to run sqlite3 queries
 
 
 
+Docstring:
+import sqlite3
+runsqlquery(database_name.db) # to enter query mode
+>query ('quit' to exit query mode
 
-Copyright (c) <2019> 
+
+
+
+Copyright (c) 2019 
 Hamza Ali Rizvi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
