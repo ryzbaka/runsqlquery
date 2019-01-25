@@ -35,7 +35,6 @@ def runsqlquery(database_name1):
 #<module> begins
 print("Enter a database")
 db=input('>')
-help(runsqlquery)
 runsqlquery(db)
 
 
