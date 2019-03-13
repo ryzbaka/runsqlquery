@@ -13,8 +13,8 @@ import sqlite3
 
 
 
-runsqlquery(database_name.db) # to enter query mode
-
+runsqlquery(database_name.db) # to enter query mode into exisitng or new database 
+#use "name.db" format
 
 
 
