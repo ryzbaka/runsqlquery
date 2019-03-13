@@ -15,6 +15,7 @@ import sqlite3
 
 runsqlquery(database_name.db) # to enter query mode into exisitng or new database 
 #use "name.db" format
+#simply add the code to your program to use runsqlquery()'s functionality
 
 
 
