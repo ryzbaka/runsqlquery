@@ -5,7 +5,7 @@ import sqlite3
 
 #remember to check dbname when connecting to database
 
-def runsqlquery(database_name1):
+def runsqlquery(database_name1,query):
     '''
     Docstring:
     Enter query mode in sqlite3
@@ -33,9 +33,7 @@ def runsqlquery(database_name1):
 
 
 #<module> begins
-print("Enter a database")
-db=input('>')
-runsqlquery(db)
+runsqlquery(db,query)
 
 
 
